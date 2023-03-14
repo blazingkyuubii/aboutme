@@ -4,6 +4,7 @@
 <p>If you're curious, my username came from the anime series Naruto. You know.. the Kyuubi... it's blazing..</p>
 
 <h1>Skills </h1>
+<p>Here are the languages and tools I use, and have used. </p>
 <h3>Mainly Used Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 <h3>Other Languages Used</h3>
