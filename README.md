@@ -16,7 +16,7 @@
 <h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
 
-<h1>Connect With Me!</h1>
+<h1>🔗Connect With Me!</h1>
   <a href="https://www.discordapp.com/users/590907985618796574">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
