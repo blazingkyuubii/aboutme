@@ -4,4 +4,4 @@
 <h2>Mainly Used Languages</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 <h2>Other Languages Used</h2>
-<img src="https://skillicons.dev/icons?i=cpp,csharp,laravel,java,ts,r" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,laravel,java,ts,r" />
