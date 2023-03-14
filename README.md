@@ -1,17 +1,17 @@
-<h2>Hello, I am blazingkyuubii!</h2>
+<h1>Hello, I am blazingkyuubii!</h1>
 
 <p>I have been working with programming languages since my 1st year of college. I have done projects such as Web Development, Mobile App Development, Database Management, Game Development, and many more cool stuff! I'm still learning lots of programming, even the languages I mainly use!</p>
-<h2>Mainly Used Languages</h2>
+<h3>Mainly Used Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-<h2>Other Languages Used</h2>
+<h3>Other Languages Used</h3>
 <img src="https://skillicons.dev/icons?i=cpp,cs,mysql,laravel,java,ts,r"/>
-<h2>Programming Tools</h2>
+<h3>Programming Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,netlify,postman,unity,vscode"/>
-<h2>Frameworks and Libraries</h2>
+<h3>Frameworks and Libraries</h3>
 <img src="https://skillicons.dev/icons?i=bootstrap,react"/>
-<h2>Other Tools</h2>
+<h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
-<h2>Connect With Me!</h2>
+<h3>Connect With Me!</h3>
   <a href="https://www.discordapp.com/users/590907985618796574">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
