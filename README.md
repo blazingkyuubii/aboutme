@@ -12,7 +12,7 @@
 <h2>Other Tools</h2>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
 <h2>Connect With Me!</h2>
-  <a href="discordapp.com/users/590907985618796574">
+  <a href="https://www.discordapp.com/users/590907985618796574">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://www.linkedin.com/in/drezza-anacito-2882aa258/">
