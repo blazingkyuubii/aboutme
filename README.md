@@ -1,9 +1,9 @@
-<h1>Hello, I am blazingkyuubii!</h1>
+<h1>Hello, I am blazingkyuubii! 👋🦊</h1>
 
 <p>I have been working with programming languages since my 1st year of college. I have done projects such as Web Development, Mobile App Development, Database Management, Game Development, and many more cool stuff! I'm still learning lots of programming, even the languages I mainly use!</p>
 <p>If you're curious, my username came from the anime series Naruto. You know.. the Kyuubi... it's blazing..</p>
 
-<h1>Skills </h1>
+<h1>💻Skills </h1>
 <p>Here are the languages and tools I use, and have used. </p>
 <h3>Mainly Used Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
