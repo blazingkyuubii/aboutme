@@ -11,3 +11,10 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,react"/>
 <h2>Other Tools</h2>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
+<h2>Connect With Me!</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
