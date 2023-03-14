@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,react"/>
 <h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
-<h3>Connect With Me!</h3>
+<h2>Connect With Me!</h2>
   <a href="https://www.discordapp.com/users/590907985618796574">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
