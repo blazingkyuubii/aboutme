@@ -4,6 +4,10 @@
 <h2>Mainly Used Languages</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 <h2>Other Languages Used</h2>
-<img src="https://skillicons.dev/icons?i=cpp,cs,laravel,java,ts,r"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,mysql,laravel,java,ts,r"/>
 <h2>Programming Tools</h2>
-<img src="https://skillicons.dev/icons?i=androidstudio,docker,figma,git,netlify,postman,unity,vscode"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,docker,git,netlify,postman,unity,vscode"/>
+<h2>Frameworks and Libraries</h2>
+<img src="https://skillicons.dev/icons?i=bootstrap,react"/>
+<h2>Other Tools</h2>
+<img src="https://skillicons.dev/icons?i=ps,figma"/>
