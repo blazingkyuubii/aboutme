@@ -1,1 +1,1 @@
-<h1>Hello! I am blazingkyuubii!</h1>
+<h2>Hello! I am blazingkyuubii!</h2>
