@@ -2,6 +2,8 @@
 
 <p>I have been working with programming languages since my 1st year of college. I have done projects such as Web Development, Mobile App Development, Database Management, Game Development, and many more cool stuff! I'm still learning lots of programming, even the languages I mainly use!</p>
 <p>If you're curious, my username came from the anime series Naruto. You know.. the Kyuubi... it's blazing..</p>
+
+<h1>Skills </h1>
 <h3>Mainly Used Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 <h3>Other Languages Used</h3>
@@ -12,6 +14,7 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,react"/>
 <h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
+
 <h1>Connect With Me!</h1>
   <a href="https://www.discordapp.com/users/590907985618796574">
     <img src="https://skillicons.dev/icons?i=discord" />
