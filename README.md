@@ -12,7 +12,7 @@
 <h3>Programming Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,netlify,postman,unity,vscode"/>
 <h3>Frameworks and Libraries</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap,react, laravel"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,react,laravel"/>
 <h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
 
