@@ -8,11 +8,11 @@
 <h3>Mainly Used Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 <h3>Other Languages Used</h3>
-<img src="https://skillicons.dev/icons?i=cpp,cs,mysql,laravel,java,ts,r"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,mysql,java,ts,r"/>
 <h3>Programming Tools</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,netlify,postman,unity,vscode"/>
 <h3>Frameworks and Libraries</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,react, laravel"/>
 <h3>Other Tools</h3>
 <img src="https://skillicons.dev/icons?i=ps,figma"/>
 
